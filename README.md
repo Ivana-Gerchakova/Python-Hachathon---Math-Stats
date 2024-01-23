@@ -7,6 +7,6 @@
 
 ## Project Preview :
 
-<img src="Images/">
+<img src="Images/Do not reject H0.png">
 <img src="Images/">
 
