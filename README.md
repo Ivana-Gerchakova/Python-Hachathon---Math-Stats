@@ -11,7 +11,7 @@ The goal was to assess the effectiveness of the administered medication and expl
   
 - **Medication Efficacy:** The analysis, including tests, hypotheses, and model predictions, suggests that the administered medication shows effectiveness for patients with elevated blood pressure.
 
-- **Temporal Blood Pressure Changes:** Initial findings indicate a potential difference in blood pressure measurements between the first day and the 6-month mark. However, further confirmation is needed, considering various factors influencing the patients' current health 
+- **Temporal Blood Pressure Changes:** Initial findings indicate a potential difference in blood pressure measurements between the first day and the 6-month mark. However, further confirmation is needed, considering various factors influencing the patients' current health. 
 
 ## Team Memebers
 - Ivana Gerchakova
