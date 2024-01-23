@@ -5,7 +5,7 @@
 
 ## Project Highlights :
 
-# Team Members
+# Team Memebers
 - Ivana Gerchakova
 - Stevo Dimovski
 - Angela Popovska
