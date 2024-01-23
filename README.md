@@ -5,7 +5,7 @@
 
 ## Project Highlights :
 
-# Team Memebers
+## Team Memebers
 - Ivana Gerchakova
 - Stevo Dimovski
 - Angela Popovska
