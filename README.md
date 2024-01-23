@@ -1,5 +1,5 @@
 # Project Title :
-Python Hackathon Math & Stats Project
+Python Hackathon Math & Stats Project.
 
 ## Project Overview :
 In this project, we analyzed two datasets containing information from a study involving 100 patients. 
