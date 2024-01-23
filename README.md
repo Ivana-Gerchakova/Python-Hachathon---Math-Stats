@@ -5,6 +5,11 @@
 
 ## Project Highlights :
 
+# Team Members
+- Ivana Gerchakova
+- Stevo Dimovski
+- Angela Popovska
+  
 ## Project Preview :
 
 <img src="Images/Do not reject H0.png">
